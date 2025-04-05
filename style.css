@@ -39,7 +39,7 @@ body {
   padding: 1.875rem;
   margin: 8rem auto;
   background-color: var(--White);
-  border-radius: 0.9375rem;
+  border-radius: 1.5rem;
 }
 
 .header {
@@ -65,7 +65,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 600;
   color: var(--Brown-800);
 }
@@ -132,6 +132,7 @@ span {
   font-size: 1rem;
   padding: 0.625rem;
   line-height: 1.8;
+  color: var(--Stone-600);
 }
 
 .nutrition p {
